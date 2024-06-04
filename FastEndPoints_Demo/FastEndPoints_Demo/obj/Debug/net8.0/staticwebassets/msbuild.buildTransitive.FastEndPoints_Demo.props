@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/FastEndPoints_Demo.props" />
+</Project>
